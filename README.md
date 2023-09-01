@@ -17,16 +17,18 @@ You can contact me by email or online here </p>
 
 
 <b>What do I need to know before I start?</b>
-<p>* Basic JavaScript would be good to help you read the code
-* Your testing attention to detail
-* Willingness to ask for help if you get stuck</p>
+<p>* Basic JavaScript would be good to help you read the code <br>
+* Your testing attention to detail<br>
+* Willingness to ask for help if you get stuck<br>
+</p>
 
 <b>Plan:</b>
-<p>Build local dev environment -
-	-> Deploy calculator with addition function
-		-> Identify a BDD scenario for the addition function
-			-> Flesh out the steps for the scenario(s)
-				-> Verify the output from the calculator functions
-					-> Run the tests</p>
+<p><br>Build local dev environment -<br>
+	-> Deploy calculator with addition function<br>
+		-> Identify a BDD scenario for the addition function<br>
+			-> Flesh out the steps for the scenario(s)<br>
+				-> Verify the output from the calculator functions<br>
+					-> Run the tests<br>
+</p>
 
 
